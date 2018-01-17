@@ -1,0 +1,5 @@
+site_name: yuyu blog
+pages:
+- HOME: index.md
+- ABOUT: about.md
+theme: readthedocs
